@@ -92,10 +92,11 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
+![rl31](https://github.com/pavankishore-AIDS/policy-iteration-algorithm/assets/94154941/d2a0491b-7134-4f03-acac-a445f2b0e3d2)
 
-![](op1.png)
-![](op2.png)
-![](op3.png)
+![rl32](https://github.com/pavankishore-AIDS/policy-iteration-algorithm/assets/94154941/73c9e629-dc0e-483e-aed3-6d0d5213ed09)
+
+![rl33](https://github.com/pavankishore-AIDS/policy-iteration-algorithm/assets/94154941/e7dad864-8825-4d7d-9eea-60233d5efe67)
 
 ## RESULT:
 
